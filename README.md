@@ -1,20 +1,17 @@
-## APK Note
+# flutter_app
 
-⚠️ **`app-release.apk` (73MB) has been excluded from this repository** to keep the 
-submission size under GitHub's 50MB file limit (and to stay under [X]MB overall 
-submission limit, if applicable).
+A new Flutter project.
 
-If you need to run the app and a pre-built APK is not available or does not 
-install correctly, please build it yourself from source using the steps below.
+## Getting Started
 
-### Build Instructions
+This project is a starting point for a Flutter application.
 
-The complete Flutter source code is included in `flutter_app_source.zip`. 
-To build the APK:
+A few resources to get you started if this is your first Flutter project:
 
-```bash
-flutter pub get
-flutter build apk --release
-```
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-The generated APK will be located at:
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
